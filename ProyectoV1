@@ -1,3 +1,5 @@
 git version 1
 git config--global user name "john zapata"
 git config--global user email "zapatazeledonjohnalberto@gmail.com"
+git init
+git status
